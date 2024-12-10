@@ -1,5 +1,4 @@
 <body>
-    <div class="container">
         <h1>Amőba Játék</h1>
         <p><strong>Amőba játék leírása:</strong></p>
         <p>Az amőba egy klasszikus kétszemélyes játék, ahol a cél az, hogy az egyik játékosnak (<strong>X</strong> vagy <strong>O</strong>) sikerüljön egymás után három azonos jelet elhelyeznie a táblán vízszintesen, függőlegesen vagy átlósan.</p>
@@ -27,5 +26,4 @@
             <li>Alapvető AI, amely véletlenszerűen választ üres mezőket.</li>
         </ul>
         <p>Jó szórakozást az amőbázáshoz!</p>
-    </div>
 </body>
