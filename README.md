@@ -19,11 +19,14 @@
             <li>Kattints egy üres mezőre a táblán, hogy elhelyezd az <strong>X</strong> jeledet.</li>
             <li>Az AI automatikusan lép, miután befejezted a saját lépésed.</li>
             <li>A játék automatikusan kijelzi az eredményt a végén (győztes vagy döntetlen).</li>
+            <li>Az AI véletlenszerű üres mezőt választ, így a játék kiszámíthatatlan és izgalmas.</li>
         </ul>
         <h2>Jellemzők:</h2>
         <ul>
             <li>Egyszerű, könnyen érthető játékfelület.</li>
             <li>Alapvető AI, amely véletlenszerűen választ üres mezőket.</li>
+            <li>A játékos lépései a grafikus felületen azonnal megjelennek.</li>
+            <li>Eredménykijelzés a játék végén, amely megjeleníti a győztest vagy a döntetlent.</li>
         </ul>
         <p>Jó szórakozást az amőbázáshoz!</p>
 </body>
